@@ -51,7 +51,7 @@ The project collects financial data from the Central Bank, processes it, and vis
 ```bash
 pip install -r requirements.txt
 python main.py
-
+```
 ## Dashboard preview
 ![dashboard](assets/dashboard1.png)
 ![dashboard](assets/dashboard2.png)
