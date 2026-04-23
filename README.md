@@ -39,7 +39,7 @@ The project collects financial data from the Central Bank, processes it, and vis
 ├── data/
 │   ├── NAMES.csv
 ├── assets/
-    ├── style.css
+│   ├── style.css
 ├── requirements.txt
 ```
 ## Run project
