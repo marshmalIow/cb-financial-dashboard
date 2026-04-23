@@ -52,4 +52,3 @@ python main.py
 ![dashboard](./cb-financial-dashboard/assets/dashboard1.png)
 ![dashboard](./cb-financial-dashboard/assets/dashboard2.png)
 ![dashboard](./cb-financial-dashboard/assets/dashboard3.png)
-qwerty
