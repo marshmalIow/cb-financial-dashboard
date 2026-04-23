@@ -53,6 +53,6 @@ pip install -r requirements.txt
 python main.py
 ```
 ## Dashboard preview
-![dashboard](assets/dashboard1.png)
-![dashboard](assets/dashboard2.png)
-![dashboard](assets/dashboard3.png)
+![dashboard](./assets/dashboard1.png)
+![dashboard](./assets/dashboard2.png)
+![dashboard](./assets/dashboard3.png)
