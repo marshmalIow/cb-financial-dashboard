@@ -31,21 +31,17 @@ The project collects financial data from the Central Bank, processes it, and vis
 - Credit portfolio distribution (retail vs corporate)
 - Deposit structure (retail vs corporate)
 
-
+```
   cb-financial-dashboard/
 ├── main.py
 ├── src/
-│   ├── parser_cb.py
-│   ├── preprocessing.py
-│   ├── metrics.py
-│   ├── graphs/
-│       ├── profit.py
-│       ├── roe.py
-│       ├── assets.py
-│       ├── deposits.py
+│   ├── functions.py
+├── data/
+│   ├── NAMES.csv
 ├── assets/
+    ├── style.css
 ├── requirements.txt
-
+```
 ## Run project
 
 ```bash
